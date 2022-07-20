@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-<p align="center">Graduando em Sistemas de Informação (Universidade de Pernambuco) e Front-End developer wannabe.</p>
+<p>Graduando em Sistemas de Informação (Universidade de Pernambuco) e Front-End developer wannabe.</p>
 <div align="center">
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical)
@@ -8,7 +8,7 @@
 
 ## Tecnologias que já estudei formal ou informalmente
 
-<p align="center">Tecnologias utilizadas por mim em projetos pessoais ou acadêmicos:</p>
+<p>Tecnologias utilizadas por mim em projetos pessoais ou acadêmicos:</p>
 
 <div align="center">
 
