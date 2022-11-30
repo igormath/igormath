@@ -6,7 +6,7 @@
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical)
 </div>
 
-## Tecnologias que já estudei formal ou informalmente
+## Tecnologias que já utilizei
 
 <p>Tecnologias utilizadas por mim em projetos pessoais ou acadêmicos:</p>
 
@@ -17,6 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormath&layout=compact&exclude_repo=Mercado-de-Capitais)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-Meus projetos Online:
+## Alguns projetos e soluções Online
 
-[Url Shortening](https://github.com/igormath/url-shortening) - https://url-shortening-two.vercel.app/
+[Url Shortening](https://github.com/igormath/url-shortening) - https://url-shortening-two.vercel.app/ 
+<br/>
+[Ally Challenge](https://github.com/igormath/ally-challenge) - https://ally-challenge.vercel.app/
