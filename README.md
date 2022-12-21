@@ -4,6 +4,8 @@
 <div align="center">
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormath&hide=jupyter%20notebook&langs_count=8&layout=compact)](https://github.com/igormath/)
 </div>
 
 ## Tecnologias que já utilizei
