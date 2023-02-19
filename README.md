@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-<p>Graduando em Sistemas de Informação (Universidade de Pernambuco) e Front-End developer wannabe.</p>
+<p>Graduando em Sistemas de Informação (Universidade de Pernambuco) e estudante de desenvolvimento Front-End.</p>
 <div align="center">
 
 ![Igor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical)
