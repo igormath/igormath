@@ -1,19 +1,27 @@
-# Hello World! 👋
+# Hello, I'm Igor! 👋
 
-<p>Graduando em Sistemas de Informação (Universidade de Pernambuco).</p>
-<div align="center">
+Information Systems student @ Universidade de Pernambuco.
 
-![Igor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igormath&hide=jupyter%20notebook&langs_count=8&layout=compact)](https://github.com/igormath/)
-</div>
+## Programming Languages
 
-## Tecnologias que já utilizei
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igormath&hide=jupyter%20notebook&langs_count=8&layout=compact" alt="Top Languages" />
+</p>
 
-<p>Tecnologias utilizadas por mim em projetos pessoais ou acadêmicos:</p>
+## Featured Projects
 
-<div align="center">
+1. [Chimpobot](https://github.com/igormath/chimpobot)
+   - A Discord music bot with functions like searching, playing or even drawing teams for online games. Made with Node.Js.
 
-![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+2. [Url Shortening](https://github.com/igormath/url-shortening)
+   - In this one, I tried to solve a Front-End Mentor's challenge. Made with React.Js.
 
-</div>
+## How to Reach Me
+
+[E-mail](mailto:matheus.igor.p@gmail.com)
+
+Feel free to explore my repositories and get in touch with me! 😊
