@@ -2,15 +2,7 @@
 
 Information Systems student @ Universidade de Pernambuco.
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## Programming Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igormath&hide=jupyter%20notebook&langs_count=8&layout=compact" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 ## Featured Projects
 
