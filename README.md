@@ -12,6 +12,14 @@ Information Systems student @ Universidade de Pernambuco.
 2. [Url Shortening](https://github.com/igormath/url-shortening)
    - In this one, I tried to solve a Front-End Mentor's challenge. Made with React.Js.
 
+3. [Recipe Site](https://github.com/igormath/arisetechnology-test)
+   - A recipe site created with React.js, utilizing TheMealDB API. This project marks my first experience with Tailwind CSS, and I look forward to incorporating it into future projects.
+
+4. [IC Dataviz](https://github.com/igormath/ic-dataviz)
+   - Academic research project on Data Visualization. Repository still under construction.
+
+
+
 ## How to Reach Me
 
 [E-mail](mailto:matheus.igor.p@gmail.com)
