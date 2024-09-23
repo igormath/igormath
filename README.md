@@ -6,7 +6,7 @@ Information Systems student @ Universidade de Pernambuco.
 
 ## Featured Projects
 
-1. [TO-DO List](https://github.com/igormath/chimpobot)
+1. [TO-DO List](https://github.com/igormath/jack-experts-challenge)
    - A Fullstack TO-DO list with profile authentication. This was the first time I used JWT to authenticate users. The front-end was built with React.js, TypeScript, and TailwindCSS. On the backend, NodeJS was used, also with TypeScript, and Prisma was employed as the ORM.
 
 2. [Chimpobot](https://github.com/igormath/chimpobot)
