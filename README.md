@@ -1,8 +1,8 @@
 # Hello, I'm Igor! 👋
 
-Information Systems student @ Universidade de Pernambuco.
+Information Systems @ Universidade de Pernambuco.
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=igormath&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
 
 ## Featured Projects
 
